@@ -1,1 +1,4 @@
-rr1 | 0 | example_domain.glitch | false
+infamy.glitch | https://schoolkahootquizlet.netlify.app/
+in.glitch | https://gointerstellar.app
+render.glitch | https://render.com
+wikipedia.glitch | https://wikipedia.org
